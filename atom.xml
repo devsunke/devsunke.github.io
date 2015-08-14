@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://devsunke.github.io/atom.xml" rel="self"/>
-  <link href="http://devsunke.github.io/"/>
-  <updated>2015-08-14T23:51:54+08:00</updated>
-  <id>http://devsunke.github.io/</id>
+  <title><![CDATA[孙可的技术博客]]></title>
+  <link href="http://blog.devscott.com/atom.xml" rel="self"/>
+  <link href="http://blog.devscott.com/"/>
+  <updated>2015-08-15T00:07:44+08:00</updated>
+  <id>http://blog.devscott.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[孙可]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
