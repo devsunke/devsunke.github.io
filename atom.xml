@@ -4,7 +4,7 @@
   <title><![CDATA[孙可的技术博客]]></title>
   <link href="http://blog.devscott.com/atom.xml" rel="self"/>
   <link href="http://blog.devscott.com/"/>
-  <updated>2015-08-15T23:00:24+08:00</updated>
+  <updated>2015-08-15T23:30:06+08:00</updated>
   <id>http://blog.devscott.com/</id>
   <author>
     <name><![CDATA[孙可]]></name>
@@ -15,7 +15,7 @@
   
   <entry>
     <title type="html"><![CDATA[为什么要写技术博客]]></title>
-    <link href="http://blog.devscott.com/blog/20150815/wei-shi-yao-kai-shi-xie-ji-zhu-bo-ke.html/"/>
+    <link href="http://blog.devscott.com/blog/20150815/wei-shi-yao-kai-shi-xie-ji-zhu-bo-ke.html"/>
     <updated>2015-08-15T19:57:49+08:00</updated>
     <id>http://blog.devscott.com/blog/20150815/wei-shi-yao-kai-shi-xie-ji-zhu-bo-ke</id>
     <content type="html"><![CDATA[<p>自己做iOS开发也有几年时间了，刚开始觉得写博客这种东西特别浪费时间和精力，一直不愿意也懒得去做这件事情，后来越来越觉得，这还是很有必要的。首先我并不是什么技术大牛，也不是那种经验非常丰富的全栈工程师，写博客主要是出于以下几方面的考虑。</p>
