@@ -4,7 +4,7 @@
   <title><![CDATA[孙可的技术博客]]></title>
   <link href="http://blog.devscott.com/atom.xml" rel="self"/>
   <link href="http://blog.devscott.com/"/>
-  <updated>2015-08-16T13:24:41+08:00</updated>
+  <updated>2015-08-17T11:26:04+08:00</updated>
   <id>http://blog.devscott.com/</id>
   <author>
     <name><![CDATA[孙可]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Title]]></title>
+    <link href="http://blog.devscott.com/blog/20150817/test-title.html"/>
+    <updated>2015-08-17T11:24:50+08:00</updated>
+    <id>http://blog.devscott.com/blog/20150817/test-title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[为什么要写技术博客]]></title>
